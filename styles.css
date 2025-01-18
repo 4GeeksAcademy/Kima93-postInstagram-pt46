@@ -100,4 +100,5 @@ body {
     display: flex;
     align-items: center;
     margin-top: 10px;
+    gap: 10px;
 }
